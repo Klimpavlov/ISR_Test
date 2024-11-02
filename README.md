@@ -2,7 +2,25 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, run the development server:
+First, navigate to the project directory in terminal
+
+```bash
+ cd slmax-meow-react-testovoe-zadanie
+```
+
+Then, Install dependencies:
+
+```bash
+ npm install
+```
+
+Then, run the json-server in the first terminal window:
+
+```bash
+ npm run json-server
+```
+
+Then, run the development server in the second terminal window:
 
 ```bash
 npm run dev
