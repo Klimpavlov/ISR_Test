@@ -2,13 +2,7 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 
 ## Getting Started
 
-First, navigate to the project directory in terminal
-
-```bash
- cd slmax-meow-react-testovoe-zadanie
-```
-
-Then, Install dependencies:
+First, Install dependencies:
 
 ```bash
  npm install
